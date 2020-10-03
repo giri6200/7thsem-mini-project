@@ -6,7 +6,7 @@ export default {
       category: 'Chair',
       image: '/images/d1.jpg',
       price: 60,
-      brand: ' IKEA',
+      brand: ' IKEA Store',
       rating: 4.5,
       numReviews: 10,
       countInStock: 6,
