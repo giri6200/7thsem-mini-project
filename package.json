@@ -1,7 +1,7 @@
 {
   "name": "amazona",
   "version": "1.0.0",
-  "description": "",
+  "description": "New Mini Project",
   "main": "index.js",
   "dependencies": {
     "@google/model-viewer": "^1.2.1",
